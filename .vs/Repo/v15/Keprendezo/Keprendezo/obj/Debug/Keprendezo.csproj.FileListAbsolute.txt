@@ -8,3 +8,13 @@ C:\Users\xplee\source\repos\Keprendezo\Keprendezo\obj\Debug\Keprendezo.csproj.Ge
 C:\Users\xplee\source\repos\Keprendezo\Keprendezo\obj\Debug\Keprendezo.csproj.CoreCompileInputs.cache
 C:\Users\xplee\source\repos\Keprendezo\Keprendezo\obj\Debug\Keprendezo.exe
 C:\Users\xplee\source\repos\Keprendezo\Keprendezo\obj\Debug\Keprendezo.pdb
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\bin\Debug\Keprendezo.exe.config
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\bin\Debug\Keprendezo.exe
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\bin\Debug\Keprendezo.pdb
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\obj\Debug\Keprendezo.csprojAssemblyReference.cache
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\obj\Debug\Keprendezo.Keprendezo.resources
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\obj\Debug\Keprendezo.Properties.Resources.resources
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\obj\Debug\Keprendezo.csproj.GenerateResource.cache
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\obj\Debug\Keprendezo.csproj.CoreCompileInputs.cache
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\obj\Debug\Keprendezo.exe
+C:\Users\xplee\Source\Repos\Repo\.vs\Repo\v15\Keprendezo\Keprendezo\obj\Debug\Keprendezo.pdb
